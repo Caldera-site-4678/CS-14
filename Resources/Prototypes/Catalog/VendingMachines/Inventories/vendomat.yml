@@ -2,11 +2,11 @@
   id: VendomatInventory
   startingInventory:
     RemoteSignaller: 1
-    Igniter: 2
+    Igniter: 5
     Wirecutter: 1
     CableApcStack: 2
-    FlashlightLantern: 2
-    PowerCellSmallPrinted: 3
-    MatterBinStockPart: 4
-    CapacitorStockPart: 4
-    MicroManipulatorStockPart: 4
+    FlashlightLantern: 3
+    PowerCellSmallPrinted: 5
+    MatterBinStockPart: 10
+    CapacitorStockPart: 10
+    MicroManipulatorStockPart: 10

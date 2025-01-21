@@ -1,11 +1,11 @@
 - type: vendingMachineInventory
   id: FitnessVendInventory
   startingInventory:
-    FoodSnackProteinbar: 3
-    FoodCondimentPacketProtein: 3
-    DrinkMilkCartonMini: 3
-    DrinkMilkCartonMiniChocolate: 3
-    DrinkWaterBottleFull: 3
-    DrinkFitnessShakerBlack: 2
-    DrinkFitnessShakerRed: 2
-    DrinkFitnessShakerBlue: 2
+    FoodSnackProteinbar: 5
+    FoodCondimentPacketProtein: 5
+    DrinkMilkCartonMini: 5
+    DrinkMilkCartonMiniChocolate: 5
+    DrinkWaterBottleFull: 5
+    DrinkFitnessShakerBlack: 3
+    DrinkFitnessShakerRed: 3
+    DrinkFitnessShakerBlue: 3
