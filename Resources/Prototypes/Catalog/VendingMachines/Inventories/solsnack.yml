@@ -1,13 +1,13 @@
 - type: vendingMachineInventory
   id: SolsnackInventory
   startingInventory:
-    FoodSnackLunacakeWrapped: 3
-    FoodSnackMochicakeWrapped: 3
-    FoodSnackMooncakeWrapped: 3
-    FoodSnackTidegobs: 3
-    FoodSnackSaturnos: 3
-    FoodSnackJoveGello: 3
-    FoodSnackPlutoniumrods: 3
-    FoodSnackMarsFrouka: 3
-    FoodSnackVenusianhotcakes: 3
-    FoodSnackOortrocks: 3
+    FoodSnackLunacakeWrapped: 5
+    FoodSnackMochicakeWrapped: 5
+    FoodSnackMooncakeWrapped: 5
+    FoodSnackTidegobs: 5
+    FoodSnackSaturnos: 5
+    FoodSnackJoveGello: 5
+    FoodSnackPlutoniumrods: 5
+    FoodSnackMarsFrouka: 5
+    FoodSnackVenusianhotcakes: 5
+    FoodSnackOortrocks: 5
