@@ -23,5 +23,5 @@ public sealed partial class CCVars
     ///     This can be configured more precisely by modifying BloodstreamAffectedByMassComponent.
     /// </remarks>
     public static readonly CVarDef<bool> HeightAdjustModifiesBloodstream =
-        CVarDef.Create("heightadjust.modifies_bloodstream", true, CVar.SERVERONLY);
+        CVarDef.Create("heightadjust.modifies_bloodstream", false, CVar.SERVERONLY);
 }
